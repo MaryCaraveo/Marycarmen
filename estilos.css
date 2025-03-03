@@ -1,0 +1,14 @@
+body {
+    background-color:lightpink;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: hotpink;
+}
+/* Este es un comentario en CSS */
+p {
+    font-size: 18px;
+    color: palevioletred;
+}
